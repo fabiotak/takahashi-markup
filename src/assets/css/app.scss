@@ -1,0 +1,34 @@
+body {
+	background-color: #e3eef4;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+img {width: 100%;}
+
+.container {
+	max-width: 750px;
+margin: 0 auto;
+}
+
+.headline {
+font-size: 100px;
+line-height: 80px;
+font-family: 'Roboto', sans-serif;
+}
+
+.body {
+font-family: georgia;
+fontsize: 22px;
+line-height: 32px
+}
+
+.youtube1 {
+	display: block;
+	margin:0 auto;
+
+}
+
+.caption {
+font-size: 22px;
+font-family: georgia;
+}
